@@ -1,1 +1,1 @@
-# This a project named indeed clone made using react js 
+# This a project named indeed clone(frontend) made using react js 
